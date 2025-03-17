@@ -1,0 +1,5 @@
+https://www.kaggle.com/datasets/ggsri123/co2-emissions-from-fossil-fuels?resource=download&select=fossil-fuel-co2-emissions-by-nation.csv
+
+
+
+Final or now do initial data analysis 
